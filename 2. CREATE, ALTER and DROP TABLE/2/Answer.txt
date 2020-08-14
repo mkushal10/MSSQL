@@ -1,0 +1,12 @@
+1.
+
+CREATE TABLE USERS(
+	user_id int,
+	full_name varchar(100),
+	temporary_address varchar(100),
+	phone_number int
+);
+
+2.
+
+SELECT * FROM USERS

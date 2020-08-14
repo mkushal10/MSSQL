@@ -1,0 +1,2 @@
+1. Create a Table
+2. Check table
